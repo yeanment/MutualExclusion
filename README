@@ -1,0 +1,5 @@
+Motivation:             Implement mutual exclusion algorithms in ditributed system.
+Algorithm:              Lamport's mutual exclusion algoritjms
+Programming Language:   C++
+Compilation:            make
+Run:                    ./mutex
